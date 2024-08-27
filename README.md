@@ -10,3 +10,4 @@ Adicione um teste que acumule dois erros ao mesmo tempo.
 * A linguagem de programação para este desafio é TypeScript
 
 ## Principais lições aprendidas
+- Notification Pattern
